@@ -1,0 +1,6 @@
+{
+  "name": "Smart Tech Academy",
+  "description": "Interactive Smartphone Battery Replacement Training Platform for beginner technicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
